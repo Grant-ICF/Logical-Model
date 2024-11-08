@@ -1,8 +1,8 @@
 import java.io.File;
 import java.io.FileOutputStream;
-import org.srdc.ontmalizer.XSD2OWLMapper;
+import tr.com.srdc.ontmalizer.XSD2OWLMapper;
 
-/* public class HMISLogicalModel2024Test {
+ public class HMISLogicalModel2024Test {
     public static void main(String[] args) {
         try {
             // Convert XML schema to OWL ontology
@@ -19,8 +19,9 @@ import org.srdc.ontmalizer.XSD2OWLMapper;
             e.printStackTrace();
         }
     }
-} */
+} 
 
+/* 
 import java.io.File;
 import org.srdc.ontmalizer.XSD2OWLMapper;
 
@@ -33,4 +34,4 @@ public class HMISLogicalModel2024Test {
             e.printStackTrace();
         }
     }
-}
+} */
